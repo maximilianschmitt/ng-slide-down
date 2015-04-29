@@ -1,6 +1,6 @@
 {
   "name": "ng-slide-down",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "authors": [
     "TheRusskiy <dimanrussian@gmail.com>"
   ],
@@ -13,13 +13,13 @@
     "directive"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/TheRusskiy/ng-slide-down",
+  "homepage": "https://github.com/maximilianschmitt/ng-slide-down",
   "ignore": [
     "demo"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/TheRusskiy/ng-slide-down.git"
+    "url": "git://github.com/maximilianschmitt/ng-slide-down.git"
   },
   "dependencies": {
     "angular": "~1.2.20"
